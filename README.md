@@ -1,4 +1,6 @@
 # Microsoft-Azure-Lab
+![Azure GIF](https://github.com/anthonyramireztech/Microsoft-Azure-Lab/assets/151958771/7327dbd6-1ecb-49a1-ad7e-afc7f1de73e1)
+
 **IN PROGRESS**
 
 
