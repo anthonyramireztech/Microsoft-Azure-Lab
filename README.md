@@ -25,3 +25,7 @@ Server manager setup and ready to go!! 🙌
 ![Creating domain and uploading script to powershell](https://github.com/anthonyramireztech/Microsoft-Azure-Lab/assets/151958771/dc8868a8-ad1d-4766-beeb-6013c965dfc6)
 
 Creating and establishing my new Domain tree through powershell on the windows 2019 server
+
+![Added new users through active directory](https://github.com/anthonyramireztech/Microsoft-Azure-Lab/assets/151958771/718378cb-be59-4bdb-89d2-ab04e22b968d)
+
+Added new users through powershell using specific commands. As you can see i've created three new users with the names Billy, Jose, and Jimmy. (This process can also be done through the GUI but I wanted to utilize powershell).
