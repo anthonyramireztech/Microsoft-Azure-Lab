@@ -28,4 +28,4 @@ Creating and establishing my new Domain tree through powershell on the windows 2
 
 ![Added new users through active directory](https://github.com/anthonyramireztech/Microsoft-Azure-Lab/assets/151958771/718378cb-be59-4bdb-89d2-ab04e22b968d)
 
-Added new users through powershell using specific commands. As you can see i've created three new users with the names Billy, Jose, and Jimmy. (This process can also be done through the GUI but I wanted to utilize powershell).
+Added new users through powershell using specific commands. As you can see i've created three new users with the names Billy, Jose, and Jimmy. I have assigned them passwords so they can now be used, I will then add my windows 10 machine to my domain. (This process can also be done through the GUI but I wanted to utilize powershell).
